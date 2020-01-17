@@ -28,6 +28,5 @@ Imports:
 Suggests:
     knitr,
     rmarkdown,
-    pander,
     testthat
 RdMacros: Rdpack
