@@ -19,7 +19,7 @@ RoxygenNote: 7.0.2
 URL: https://github.com/myaseen208/SupMZ
      https://CRAN.R-project.org/package=SupMZ
      https://myaseen208.github.io/SupMZ/
-BugReports: https://github.com/aravind-j/SupMZ/issues
+BugReports: https://github.com/myaseen208/SupMZ/issues
 Note: Department of Mathematics and Statistics, University of Agriculture Faisalabad, Faisalabad-Pakistan.
 Imports:
     dplyr,
