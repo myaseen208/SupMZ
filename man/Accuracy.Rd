@@ -2,12 +2,12 @@
 % Please edit documentation in R/Accuracy.R
 \name{Accuracy}
 \alias{Accuracy}
-\alias{supmz.default}
+\alias{Accuracy.default}
 \title{Extract the accuracy measures from group testing results}
 \usage{
 Accuracy(object, individual = TRUE, ...)
 
-supmz.default(object, individual = TRUE, ...)
+\method{Accuracy}{default}(object, individual = TRUE, ...)
 }
 \arguments{
 \item{object}{An object of class "opChar", from which the accuracy measures are to be extracted.}

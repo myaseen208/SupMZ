@@ -21,9 +21,6 @@ navbar:
     - icon: fa-code
       text: Reference
       href: reference/index.html
-    - icon: fa-file-o
-      text: Tutorial
-      href: articles/IntroSupMZ.html
     - icon: fa-newspaper-o
       text: News
       href: news/index.html
@@ -44,4 +41,3 @@ reference:
       contents:
          - '`Japan`'
          - '`Accuracy`'
-

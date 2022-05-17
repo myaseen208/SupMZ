@@ -67,7 +67,7 @@ Accuracy <-
 #' @export
 #' @rdname Accuracy
 
-supmz.default <-
+Accuracy.default <-
   function (object, individual = TRUE, ...)
 {
     args <- list(...)

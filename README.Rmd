@@ -2,7 +2,7 @@
 output: rmarkdown::github_document
 ---
 
-```{r, echo = FALSE, eval = FALSE}
+```{r, echo = FALSE, eval = TRUE}
 knitr::opts_chunk$set(
   collapse = TRUE,
   comment = "",
@@ -16,14 +16,16 @@ knitr::opts_chunk$set(
 devtools::load_all(".")
 ```
 
-###### Version : [`r getNamespaceVersion("binGroup2")`](https://myaseen208.github.io/binGroup2/); Copyright (C) 2019-2020: [UNL](https://statistics.unl.edu/); License: [GPL-2|GPL-3](https://www.r-project.org/Licenses/)
+###### Version : [`r getNamespaceVersion("binGroup2")`](https://myaseen208.github.io/binGroup2/); Copyright (C) 2019-2022: [UNL](https://statistics.unl.edu/); License: [GPL-2|GPL-3](https://www.r-project.org/Licenses/)
 
 
-##### *Muhammad Yaseen^1^, Sami Ullah^1^^,^ ^2^,  and Gulfam Haider^3^*
+##### *Brianna Hitt^1^, Christopher Bilder^2^, Frank Schaarschmidt^3^, Brad Biggerstaff, Christopher McMahan,  Joshua Tebbs, Boan Zhang, Michael Black, Peijie Hou,  and Peng Chen*
+ 
 
-1. Department of Mathematics and Statistics, University of Agriculture Faisalabad, Pakistan.
-2. College of Agriculutre, University of Sargodha, Pakistan.
-3. Fast School of Management, FAST National University of Computer and Emerging Sciences, Chiniot Faisalabad Campus, Pakistan.
+1. United States Air Force Academy: Colorado Springs, Colorado, USA
+2. Department of Statistics, University of Nebraska, Lincoln-NE, USA
+3. Leibniz University Hannover: Hanover, Niedersachsen, DE
+
 
 ***
 
@@ -65,17 +67,8 @@ The development version can be installed from github as follows:
 
 ```{r, eval=FALSE}
 if (!require("remotes")) install.packages("remotes")
-devtools::install_github("myaseen208/binGroup2")
+remotes::install_github("myaseen208/binGroup2")
 ```
-
-## Detailed tutorial
-For a detailed tutorial (vignette) on how to used this package type:
-
-```{r, eval=FALSE}
-browseVignettes(package = "binGroup2")
-```
-
-The vignette for the latest version is also available [online](https://myaseen208.github.io/binGroup2/articles/IntrobinGroup2.html).
 
 
 ## What's new
@@ -102,7 +95,7 @@ To cite the methods in the package use:
 citation("binGroup2")
 ```
 
-```{r, echo = FALSE, eval=FALSE}
+```{r, echo = FALSE, eval=TRUE}
 detach("package:binGroup2", unload=TRUE)
 suppressPackageStartupMessages(library(binGroup2))
 cit <- citation("binGroup2")

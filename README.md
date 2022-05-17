@@ -1,15 +1,13 @@
 
 ## `binGroup2`: Identification and Estimation using Group Testing
 
-###### Version : [1.2.4](https://myaseen208.github.io/binGroup2/); Copyright (C) 2019-2020: [UNL](https://statistics.unl.edu/); License: [GPL-2\|GPL-3](https://www.r-project.org/Licenses/)
+###### Version : [1.2.4](https://myaseen208.github.io/binGroup2/); Copyright (C) 2019-2022: [UNL](https://statistics.unl.edu/); License: [GPL-2\|GPL-3](https://www.r-project.org/Licenses/)
 
-##### *Muhammad Yaseen<sup>1</sup>, Sami Ullah<sup>1,</sup> <sup>2</sup>, and Gulfam Haider<sup>3</sup>*
+##### *Brianna Hitt<sup>1</sup>, Christopher Bilder<sup>2</sup>, Frank Schaarschmidt<sup>3</sup>, Brad Biggerstaff, Christopher McMahan, Joshua Tebbs, Boan Zhang, Michael Black, Peijie Hou, and Peng Chen*
 
-1.  Department of Mathematics and Statistics, University of Agriculture
-    Faisalabad, Pakistan.
-2.  College of Agriculutre, University of Sargodha, Pakistan.
-3.  Fast School of Management, FAST National University of Computer and
-    Emerging Sciences, Chiniot Faisalabad Campus, Pakistan.
+1.  United States Air Force Academy: Colorado Springs, Colorado, USA
+2.  Department of Statistics, University of Nebraska, Lincoln-NE, USA
+3.  Leibniz University Hannover: Hanover, Niedersachsen, DE
 
 ------------------------------------------------------------------------
 
@@ -55,19 +53,8 @@ The development version can be installed from github as follows:
 
 ``` r
 if (!require("remotes")) install.packages("remotes")
-devtools::install_github("myaseen208/binGroup2")
+remotes::install_github("myaseen208/binGroup2")
 ```
-
-## Detailed tutorial
-
-For a detailed tutorial (vignette) on how to used this package type:
-
-``` r
-browseVignettes(package = "binGroup2")
-```
-
-The vignette for the latest version is also available
-[online](https://myaseen208.github.io/binGroup2/articles/IntrobinGroup2.html).
 
 ## What’s new
 
@@ -92,3 +79,21 @@ To cite the methods in the package use:
 ``` r
 citation("binGroup2")
 ```
+
+
+    To cite package 'binGroup2' in publications use:
+
+      Hitt B, Bilder C, Schaarschmidt F, Biggerstaff B, McMahan C, Tebbs J
+      (2022). _binGroup2: Identification and Estimation using Group
+      Testing_. R package version 1.2.4,
+      <https://CRAN.R-project.org/package=binGroup2>.
+
+    A BibTeX entry for LaTeX users is
+
+      @Manual{,
+        title = {binGroup2: Identification and Estimation using Group Testing},
+        author = {Brianna Hitt and Christopher Bilder and Frank Schaarschmidt and Brad Biggerstaff and Christopher McMahan and Joshua Tebbs},
+        year = {2022},
+        note = {R package version 1.2.4},
+        url = {https://CRAN.R-project.org/package=binGroup2},
+      }
