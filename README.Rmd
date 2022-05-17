@@ -1,0 +1,118 @@
+---
+output: rmarkdown::github_document
+---
+
+```{r, echo = FALSE, eval = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "",
+  fig.path = "inst/extdata/"
+)
+```
+
+## `binGroup2`: Identification and Estimation using Group Testing 
+
+```{r,echo = FALSE, message = FALSE}
+devtools::load_all(".")
+```
+
+###### Version : [`r getNamespaceVersion("binGroup2")`](https://myaseen208.github.io/binGroup2/); Copyright (C) 2019-2020: [UNL](https://statistics.unl.edu/); License: [GPL-2|GPL-3](https://www.r-project.org/Licenses/)
+
+
+##### *Muhammad Yaseen^1^, Sami Ullah^1^^,^ ^2^,  and Gulfam Haider^3^*
+
+1. Department of Mathematics and Statistics, University of Agriculture Faisalabad, Pakistan.
+2. College of Agriculutre, University of Sargodha, Pakistan.
+3. Fast School of Management, FAST National University of Computer and Emerging Sciences, Chiniot Faisalabad Campus, Pakistan.
+
+***
+
+[![minimal R version](https://img.shields.io/badge/R>%3D-3.5.0-6666ff.svg)](https://cran.r-project.org/)
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![CRAN_Status_Badge](https://www.r-pkg.org/badges/version-last-release/binGroup2)](https://cran.r-project.org/package=binGroup2)
+[![rstudio mirror downloads](https://cranlogs.r-pkg.org/badges/grand-total/binGroup2?color=green)](https://CRAN.R-project.org/package=binGroup2)
+<!-- [![packageversion](https://img.shields.io/badge/Package%20version-0.2.3.3-orange.svg)](https://github.com/myaseen208/binGroup2) -->
+
+```{r, results='asis', echo=FALSE, eval=FALSE}
+dver <- ifelse(test = gsub("(.\\.)(\\d+)(\\..)", "", getNamespaceVersion("binGroup2")) != "",
+               yes = getNamespaceVersion("binGroup2"),
+               no = gsub("Version:\\s*", "", readLines(paste0("https://raw.githubusercontent.com/", "myaseen208/binGroup2", "/master/DESCRIPTION"))[grep("Version:", readLines(paste0("https://raw.githubusercontent.com/", "myaseen208/binGroup2", "/master/DESCRIPTION")))]))
+cat(paste("[![develVersion](https://img.shields.io/badge/devel%20version-", dver, "-orange.svg)](https://github.com/myaseen208/binGroup2)", sep = ""))
+```
+
+<!-- [![GitHub Download Count](https://github-basic-badges.herokuapp.com/downloads/myaseen208/binGroup2/total.svg)] -->
+[![Project Status: WIP](http://www.repostatus.org/badges/latest/inactive.svg)](http://www.repostatus.org/#inactive)
+[![lifecycle](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://www.tidyverse.org/lifecycle/#stable)
+[![Last-changedate](https://img.shields.io/badge/last%20change-`r gsub('-', '--', Sys.Date())`-yellowgreen.svg)](https://github.com/myaseen208/binGroup2)
+[![Rdoc](http://www.rdocumentation.org/badges/version/binGroup2)](http://www.rdocumentation.org/packages/binGroup2)
+[![Analytics](https://pro-pulsar-193905.appspot.com/UA-116716530-1/welcome-page)](https://github.com/myaseen208/google-analytics-beacon)
+
+***
+
+## Description
+`r gsub("(<doi:)(.+)(>)", "[doi:\\2](https://doi.org/\\2)", gsub("\\n", " ", packageDescription("binGroup2", fields = "Description")))`
+
+## Installation
+The package can be installed from CRAN as follows:
+
+```{r, eval=FALSE}
+install.packages("binGroup2", dependencies = TRUE)
+```
+
+
+
+The development version can be installed from github as follows:
+
+```{r, eval=FALSE}
+if (!require("remotes")) install.packages("remotes")
+devtools::install_github("myaseen208/binGroup2")
+```
+
+## Detailed tutorial
+For a detailed tutorial (vignette) on how to used this package type:
+
+```{r, eval=FALSE}
+browseVignettes(package = "binGroup2")
+```
+
+The vignette for the latest version is also available [online](https://myaseen208.github.io/binGroup2/articles/IntrobinGroup2.html).
+
+
+## What's new
+To know whats new in this version type:
+
+```{r, eval=FALSE}
+news(package = "binGroup2")
+```
+
+## Links
+
+[CRAN page](https://cran.r-project.org/package=binGroup2)
+
+[Github page](https://github.com/myaseen208/binGroup2)
+
+[Documentation website](https://myaseen208.github.io/binGroup2/)
+
+
+
+## Citing `binGroup2`
+To cite the methods in the package use:
+
+```{r, eval = FALSE}
+citation("binGroup2")
+```
+
+```{r, echo = FALSE, eval=FALSE}
+detach("package:binGroup2", unload=TRUE)
+suppressPackageStartupMessages(library(binGroup2))
+cit <- citation("binGroup2")
+# yr <- format(Sys.Date(), "%Y")
+# cit[1]$year <- yr
+# oc <- class(cit)
+# 
+# cit <- unclass(cit)
+# attr(cit[[1]],"textVersion") <- gsub("\\(\\)",
+#                                      paste("\\(", yr, "\\)", sep = ""),
+#                                      attr(cit[[1]],"textVersion"))
+# class(cit) <- oc
+cit

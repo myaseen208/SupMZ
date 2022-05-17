@@ -1,0 +1,644 @@
+[
+    {
+        "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+        "file_last_write": 1651431239.0,
+        "definitions": [
+            {
+                "usr": "c:@F@theta#$@N@std@N@arma@S@Col>#d#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "theta(arma::vec, int, double)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 22,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@f1#$@N@std@N@arma@S@Col>#d#S0_#S0_#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "f1(arma::vec, arma::vec, arma::vec, int)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 43,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@f2#$@N@std@N@arma@S@Col>#d#S0_#S0_#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "f2(arma::vec, arma::vec, arma::vec, int)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 48,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@f11#$@N@std@N@arma@S@Col>#d#S0_#S0_#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "f11(arma::vec, arma::vec, arma::vec, int)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 53,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@g1#$@N@std@N@arma@S@Col>#d#I#I#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "g1(arma::vec, int, int, int)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 58,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@g2#$@N@std@N@arma@S@Col>#d#I#I#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "g2(arma::vec, int, int, int)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 63,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@g12#I#I#I#d#d#d#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "g12(int, int, int, double, double, double, double)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 68,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@f#$@N@std@N@arma@S@Col>#d#I#I#I#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "f(arma::vec, int, int, int, int)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 77,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@eff_nomaster_1#$@N@std@N@arma@S@Col>#d#S0_#S0_#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "eff_nomaster_1(arma::vec, arma::vec, arma::vec, int)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 94,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@eff_nomaster_2#$@N@std@N@arma@S@Col>#d#S0_#S0_#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "eff_nomaster_2(arma::vec, arma::vec, arma::vec, int)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 106,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@eff_nomaster_3_1#$@N@std@N@arma@S@Col>#d#S0_#S0_#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "eff_nomaster_3_1(arma::vec, arma::vec, arma::vec, int)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 117,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@diag_3_2#I#I#I#I#I#$@N@std@N@arma@S@Col>#d#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "diag_3_2(int, int, int, int, int, arma::vec, arma::vec)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 123,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@eff_nomaster_3_2#$@N@std@N@arma@S@Col>#d#S0_#S0_#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "eff_nomaster_3_2(arma::vec, arma::vec, arma::vec, int)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 128,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@diag_3_3#I#I#I#I#I#$@N@std@N@arma@S@Col>#d#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "diag_3_3(int, int, int, int, int, arma::vec, arma::vec)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 169,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@eff_nomaster_3_3#$@N@std@N@arma@S@Col>#d#S0_#S0_#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "eff_nomaster_3_3(arma::vec, arma::vec, arma::vec, int)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 174,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@diag_3_4#I#I#I#I#I#$@N@std@N@arma@S@Col>#d#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "diag_3_4(int, int, int, int, int, arma::vec, arma::vec)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 214,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@eff_nomaster_3_4#$@N@std@N@arma@S@Col>#d#S0_#S0_#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "eff_nomaster_3_4(arma::vec, arma::vec, arma::vec, int)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 219,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@diag_3_5#I#I#I#I#I#$@N@std@N@arma@S@Col>#d#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "diag_3_5(int, int, int, int, int, arma::vec, arma::vec)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 243,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@eff_nomaster_3_5#$@N@std@N@arma@S@Col>#d#S0_#S0_#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "eff_nomaster_3_5(arma::vec, arma::vec, arma::vec, int)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 248,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@pse1_nomaster_1#$@N@std@N@arma@S@Col>#d#S0_#S0_#S0_#S0_#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "pse1_nomaster_1(arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, int)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 275,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@pse1_nomaster_2#$@N@std@N@arma@S@Col>#d#S0_#S0_#S0_#S0_#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "pse1_nomaster_2(arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, int)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 280,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@pse1_nomaster_3_1#$@N@std@N@arma@S@Col>#d#S0_#S0_#S0_#S0_#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "pse1_nomaster_3_1(arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, int)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 297,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@pse1_nomaster_3_2#$@N@std@N@arma@S@Col>#d#S0_#S0_#S0_#S0_#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "pse1_nomaster_3_2(arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, int)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 302,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@pse1_nomaster_3_3#$@N@std@N@arma@S@Col>#d#S0_#S0_#S0_#S0_#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "pse1_nomaster_3_3(arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, int)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 317,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@pse1_nomaster_3_4#$@N@std@N@arma@S@Col>#d#S0_#S0_#S0_#S0_#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "pse1_nomaster_3_4(arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, int)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 336,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@pse1_nomaster_3_5#$@N@std@N@arma@S@Col>#d#S0_#S0_#S0_#S0_#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "pse1_nomaster_3_5(arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, int)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 355,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@pse1_nomaster#$@N@std@N@arma@S@Col>#d#S0_#S0_#S0_#S0_#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "pse1_nomaster(arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, int)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 391,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@pse2_nomaster_1#$@N@std@N@arma@S@Col>#d#S0_#S0_#S0_#S0_#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "pse2_nomaster_1(arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, int)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 402,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@pse2_nomaster_2#$@N@std@N@arma@S@Col>#d#S0_#S0_#S0_#S0_#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "pse2_nomaster_2(arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, int)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 407,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@pse2_nomaster_3_1#$@N@std@N@arma@S@Col>#d#S0_#S0_#S0_#S0_#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "pse2_nomaster_3_1(arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, int)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 424,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@pse2_nomaster_3_2#$@N@std@N@arma@S@Col>#d#S0_#S0_#S0_#S0_#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "pse2_nomaster_3_2(arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, int)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 430,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@pse2_nomaster_3_3#$@N@std@N@arma@S@Col>#d#S0_#S0_#S0_#S0_#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "pse2_nomaster_3_3(arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, int)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 445,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@pse2_nomaster_3_4#$@N@std@N@arma@S@Col>#d#S0_#S0_#S0_#S0_#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "pse2_nomaster_3_4(arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, int)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 465,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@pse2_nomaster_3_5#$@N@std@N@arma@S@Col>#d#S0_#S0_#S0_#S0_#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "pse2_nomaster_3_5(arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, int)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 485,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@g1n#$@N@std@N@arma@S@Col>#d#I#I#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "g1n(arma::vec, int, int, int)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 526,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@g2n#$@N@std@N@arma@S@Col>#d#I#I#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "g2n(arma::vec, int, int, int)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 531,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@alpha2#$@N@std@N@arma@S@Col>#d#S0_#S0_#S0_#S0_#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "alpha2(arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, int)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 536,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@alpha1#$@N@std@N@arma@S@Col>#d#S0_#S0_#S0_#S0_#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "alpha1(arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, int)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 541,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@beta2#$@N@std@N@arma@S@Col>#d#S0_#S0_#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "beta2(arma::vec, arma::vec, arma::vec, int)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 546,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@beta1#$@N@std@N@arma@S@Col>#d#S0_#S0_#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "beta1(arma::vec, arma::vec, arma::vec, int)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 560,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@eff_master_1#$@N@std@N@arma@S@Col>#d#S0_#S0_#S0_#S0_#S0_#S0_#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "eff_master_1(arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, int, double)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 576,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@eff_master_2#$@N@std@N@arma@S@Col>#d#S0_#S0_#S0_#S0_#S0_#S0_#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "eff_master_2(arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, int, double)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 586,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@eff_master_3_1#$@N@std@N@arma@S@Col>#d#S0_#S0_#S0_#S0_#S0_#S0_#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "eff_master_3_1(arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, int, double)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 596,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@eff_master_3_2#$@N@std@N@arma@S@Col>#d#S0_#S0_#S0_#S0_#S0_#S0_#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "eff_master_3_2(arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, int, double)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 606,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@eff_master_3_3#$@N@std@N@arma@S@Col>#d#S0_#S0_#S0_#S0_#S0_#S0_#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "eff_master_3_3(arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, int, double)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 616,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@eff_master_3_4#$@N@std@N@arma@S@Col>#d#S0_#S0_#S0_#S0_#S0_#S0_#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "eff_master_3_4(arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, int, double)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 626,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@eff_master_3_5#$@N@std@N@arma@S@Col>#d#S0_#S0_#S0_#S0_#S0_#S0_#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "eff_master_3_5(arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, int, double)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 636,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@pse1_master_1#$@N@std@N@arma@S@Col>#d#S0_#S0_#S0_#S0_#S0_#S0_#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "pse1_master_1(arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, int, double)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 651,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@pse1_master_2#$@N@std@N@arma@S@Col>#d#S0_#S0_#S0_#S0_#S0_#S0_#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "pse1_master_2(arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, int, double)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 659,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@pse1_master_3_1#$@N@std@N@arma@S@Col>#d#S0_#S0_#S0_#S0_#S0_#S0_#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "pse1_master_3_1(arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, int, double)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 667,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@pse1_master_3_2#$@N@std@N@arma@S@Col>#d#S0_#S0_#S0_#S0_#S0_#S0_#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "pse1_master_3_2(arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, int, double)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 675,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@pse1_master_3_3#$@N@std@N@arma@S@Col>#d#S0_#S0_#S0_#S0_#S0_#S0_#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "pse1_master_3_3(arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, int, double)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 683,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@pse1_master_3_4#$@N@std@N@arma@S@Col>#d#S0_#S0_#S0_#S0_#S0_#S0_#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "pse1_master_3_4(arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, int, double)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 691,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@pse1_master_3_5#$@N@std@N@arma@S@Col>#d#S0_#S0_#S0_#S0_#S0_#S0_#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "pse1_master_3_5(arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, int, double)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 699,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@pse2_master_1#$@N@std@N@arma@S@Col>#d#S0_#S0_#S0_#S0_#S0_#S0_#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "pse2_master_1(arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, int, double)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 712,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@pse2_master_2#$@N@std@N@arma@S@Col>#d#S0_#S0_#S0_#S0_#S0_#S0_#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "pse2_master_2(arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, int, double)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 720,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@pse2_master_3_1#$@N@std@N@arma@S@Col>#d#S0_#S0_#S0_#S0_#S0_#S0_#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "pse2_master_3_1(arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, int, double)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 728,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@pse2_master_3_2#$@N@std@N@arma@S@Col>#d#S0_#S0_#S0_#S0_#S0_#S0_#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "pse2_master_3_2(arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, int, double)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 736,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@pse2_master_3_3#$@N@std@N@arma@S@Col>#d#S0_#S0_#S0_#S0_#S0_#S0_#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "pse2_master_3_3(arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, int, double)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 744,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@pse2_master_3_4#$@N@std@N@arma@S@Col>#d#S0_#S0_#S0_#S0_#S0_#S0_#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "pse2_master_3_4(arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, int, double)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 752,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@pse2_master_3_5#$@N@std@N@arma@S@Col>#d#S0_#S0_#S0_#S0_#S0_#S0_#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "pse2_master_3_5(arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, arma::vec, int, double)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 760,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@ARRAY_nomaster#$@N@std@N@arma@S@Col>#d#$@N@std@N@arma@S@Mat>#d#S1_#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "ARRAY_nomaster(arma::vec, arma::mat, arma::mat, double)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 772,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@ARRAY_master#$@N@std@N@arma@S@Col>#d#$@N@std@N@arma@S@Mat>#d#S1_#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "ARRAY_master(arma::vec, arma::mat, arma::mat, double)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Array.cpp",
+                "line": 818,
+                "column": 6
+            }
+        ]
+    },
+    {
+        "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Hierarchical.cpp",
+        "file_last_write": 1651431240.0,
+        "definitions": [
+            {
+                "usr": "c:Hierarchical.cpp@F@theta#$@N@std@N@arma@S@Col>#d#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "theta(arma::vec, int, double)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Hierarchical.cpp",
+                "line": 8,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@poolsize#I#I#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "poolsize(int, int, int)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Hierarchical.cpp",
+                "line": 30,
+                "column": 11
+            },
+            {
+                "usr": "c:@F@EFF_HIER#$@N@std@N@arma@S@Col>#d#I#$@N@std@N@arma@S@Mat>#d#S1_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "EFF_HIER(arma::vec, int, arma::mat, arma::mat, arma::vec)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Hierarchical.cpp",
+                "line": 119,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@prob#$@N@std@N@arma@S@Col>#d#I#$@N@std@N@arma@S@Mat>#d#S1_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "prob(arma::vec, int, arma::mat, arma::mat, arma::vec)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Hierarchical.cpp",
+                "line": 168,
+                "column": 11
+            },
+            {
+                "usr": "c:@F@ACCU_HIER#$@N@std@N@arma@S@Col>#d#I#$@N@std@N@arma@S@Mat>#d#S1_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "ACCU_HIER(arma::vec, int, arma::mat, arma::mat, arma::vec)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Hierarchical.cpp",
+                "line": 215,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@OPT#$@N@std@N@arma@S@Col>#d#$@N@std@N@arma@S@Mat>#d#S1_#I#I#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "OPT(arma::vec, arma::mat, arma::mat, int, int, int)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Hierarchical.cpp",
+                "line": 294,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@optimal_stage#d#$@N@std@N@arma@S@Mat>#d#S0_#$@N@std@N@arma@S@Col>#d#S1_#I#I#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "optimal_stage(double, arma::mat, arma::mat, arma::vec, arma::vec, int, int, int)",
+                "file": "D:/MYaseen208_B0-22-7A-E9-23-9B/Consultancy/Mr._M._Yaseen/2017-09-14RPackages/binGroup2/binGroup2/src/Hierarchical.cpp",
+                "line": 340,
+                "column": 6
+            }
+        ]
+    }
+]
