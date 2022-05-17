@@ -30,14 +30,6 @@ navbar:
       href: https://github.com/myaseen208/binGroup2
 
 reference:
-    - title: Data Sets
-      contents:
-         - '`Belgium`'
-         - '`Japan`'
-         - '`Srilanka`'
-
-
     - title: Core anlaysis function
       contents:
-         - '`Japan`'
          - '`Accuracy`'
