@@ -175,46 +175,19 @@ accuracy measures for the algorithm from <kbd>object</kbd>.</p></dd>
 <span class="r-in">                     nrow <span class="op">=</span> <span class="fl">2</span>, ncol <span class="op">=</span> <span class="fl">10</span>, byrow <span class="op">=</span> <span class="cn">TRUE</span><span class="op">)</span></span>
 <span class="r-in"><span class="va">res1</span> <span class="op">&lt;-</span> <span class="fu">opChar1</span><span class="op">(</span>algorithm <span class="op">=</span> <span class="st">"D2"</span>, p <span class="op">=</span> <span class="fl">0.05</span>, Se <span class="op">=</span> <span class="fl">0.99</span>, Sp <span class="op">=</span> <span class="fl">0.99</span>,</span>
 <span class="r-in">        hier.config <span class="op">=</span> <span class="va">config.mat</span><span class="op">)</span></span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> </span>
-<span class="r-out co"><span class="r-pr">#&gt;</span>  Number of minutes running:  0 </span>
-<span class="r-out co"><span class="r-pr">#&gt;</span>  </span>
+<span class="r-err co"><span class="r-pr">#&gt;</span> <span class="error">Error in opChar1(algorithm = "D2", p = 0.05, Se = 0.99, Sp = 0.99, hier.config = config.mat):</span> could not find function "opChar1"</span>
 <span class="r-in"><span class="fu">Accuracy</span><span class="op">(</span><span class="va">res1</span>, individual <span class="op">=</span> <span class="cn">FALSE</span><span class="op">)</span></span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> $Overall</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span>         PSe    PSp   PPPV   PNPV</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> [1,] 0.9801 0.9963 0.9327 0.9989</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-err co"><span class="r-pr">#&gt;</span> <span class="error">Error in Accuracy(res1, individual = FALSE):</span> could not find function "Accuracy"</span>
 <span class="r-in"><span class="fu">Accuracy</span><span class="op">(</span><span class="va">res1</span>, individual <span class="op">=</span> <span class="cn">TRUE</span><span class="op">)</span></span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> $Individual</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span>      PSe    PSp   PPPV   PNPV individuals</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> 1 0.9801 0.9963 0.9327 0.9989         All</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> </span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> $Overall</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span>         PSe    PSp   PPPV   PNPV</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> [1,] 0.9801 0.9963 0.9327 0.9989</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-err co"><span class="r-pr">#&gt;</span> <span class="error">Error in Accuracy(res1, individual = TRUE):</span> could not find function "Accuracy"</span>
 <span class="r-in"></span>
 <span class="r-in"><span class="va">res2</span> <span class="op">&lt;-</span> <span class="fu">opChar2</span><span class="op">(</span>algorithm <span class="op">=</span> <span class="st">"A2M"</span>,</span>
 <span class="r-in">                p.vec <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/c.html" class="external-link">c</a></span><span class="op">(</span><span class="fl">0.92</span>, <span class="fl">0.05</span>, <span class="fl">0.02</span>, <span class="fl">0.01</span><span class="op">)</span>,</span>
 <span class="r-in">                Se <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/rep.html" class="external-link">rep</a></span><span class="op">(</span><span class="fl">0.95</span>, <span class="fl">2</span><span class="op">)</span>, Sp <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/rep.html" class="external-link">rep</a></span><span class="op">(</span><span class="fl">0.99</span>, <span class="fl">2</span><span class="op">)</span>,</span>
 <span class="r-in">                rowcol.sz <span class="op">=</span> <span class="fl">8</span><span class="op">)</span></span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> </span>
-<span class="r-out co"><span class="r-pr">#&gt;</span>  Number of minutes running:  0 </span>
-<span class="r-out co"><span class="r-pr">#&gt;</span>  </span>
+<span class="r-err co"><span class="r-pr">#&gt;</span> <span class="error">Error in opChar2(algorithm = "A2M", p.vec = c(0.92, 0.05, 0.02, 0.01),     Se = rep(0.95, 2), Sp = rep(0.99, 2), rowcol.sz = 8):</span> could not find function "opChar2"</span>
 <span class="r-in"><span class="fu">Accuracy</span><span class="op">(</span><span class="va">res2</span><span class="op">)</span></span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> $`Disease 1 Individual`</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span>      PSe    PSp   PPPV   PNPV individuals</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> 1 0.8704 0.9983 0.9709 0.9918         All</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> </span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> $`Disease 2 Individual`</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span>      PSe    PSp   PPPV   PNPV individuals</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> 1 0.9004 0.9981 0.9366 0.9969         All</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> </span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> $Overall</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span>        </span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> Disease    PSe    PSp   PPPV   PNPV</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span>       1 0.8704 0.9983 0.9709 0.9918</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span>       2 0.9004 0.9981 0.9366 0.9969</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-err co"><span class="r-pr">#&gt;</span> <span class="error">Error in Accuracy(res2):</span> could not find function "Accuracy"</span>
 <span class="r-in"></span>
 </code></pre></div>
     </div>
